@@ -1,0 +1,11 @@
+${AnsiColor.BLUE}
+  _________.__    .__
+ /   _____/|  |__ |__| _____   _____   ___________
+ \_____  \ |  |  \|  |/     \ /     \_/ __ \_  __ \
+ /        \|   Y  \  |  Y Y  \  Y Y  \  ___/|  | \/
+/_______  /|___|  /__|__|_|  /__|_|  /\___  >__|
+        \/      \/         \/      \/     \/
+
+               Shimmer NetWork Studio
+                       1.0.0${AnsiColor.DEFAULT}
+${AnsiColor.BLUE}      Power By Chen @Mail: admin@chenzhihao.cc
